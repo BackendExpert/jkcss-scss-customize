@@ -1,2 +1,7 @@
 //import all scss form jkcss
-@import "../node_modules/@jehankandy/jkcss/src/jkcss.min.css"
+@import "../node_modules/@jehankandy/jkcss/src/jkcss.min.css";
+
+// css variables overriding
+.jkbtn-green{
+    --jk-green: pink;
+}

@@ -1,3 +1,6 @@
 @import "../node_modules/@jehankandy/jkcss/src/jkcss.min.css";
+.jkbtn-green {
+  --jk-green: pink;
+}
 
 /*# sourceMappingURL=custom.css.map */
